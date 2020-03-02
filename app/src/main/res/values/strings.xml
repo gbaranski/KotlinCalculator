@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="buttonMathSum">+</string>
+    <string name="textVarA">Number 1</string>
+    <string name="TextVarB">Number 2</string>
+    <string name="resultLabel">result</string>
+</resources>
